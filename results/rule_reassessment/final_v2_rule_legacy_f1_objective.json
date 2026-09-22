@@ -1,0 +1,37 @@
+{
+  "selection": {
+    "candidate": "SHAP_top_3",
+    "features": "mag_moment_mean;avg_d_valence_electrons;melting_point_mean",
+    "n_features": 3,
+    "q_low": 0.0,
+    "q_high": 100.0,
+    "MCC": 0.47483530237622895,
+    "balanced_accuracy": 0.7395272127542606,
+    "enrichment": 2.4687829150980733,
+    "recall": 0.611764705882353,
+    "precision": 0.5953093554137198,
+    "F1": 0.6030485581144054,
+    "MCC_sd": 0.01695314493164495,
+    "BA_sd": 0.005837769917370277
+  },
+  "features": [
+    "mag_moment_mean",
+    "avg_d_valence_electrons",
+    "melting_point_mean"
+  ],
+  "bounds": {
+    "mag_moment_mean": [
+      0.4453462461215974,
+      1.5841829155134
+    ],
+    "avg_d_valence_electrons": [
+      3.694703000000001,
+      7.195
+    ],
+    "melting_point_mean": [
+      1533.84621781,
+      1866.894444444445
+    ]
+  },
+  "selection_note": "Sensitivity analysis preserving the original F1-first ranking objective."
+}
