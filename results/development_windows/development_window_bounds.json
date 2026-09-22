@@ -1,0 +1,94 @@
+{
+  "250–350 K": {
+    "window_K": [
+      250.0,
+      350.0
+    ],
+    "positive_percentile_band": [
+      5.0,
+      95.0
+    ],
+    "features": [
+      "VEC",
+      "avg_d_valence_electrons",
+      "mag_moment_mean"
+    ],
+    "bounds_full_precision": {
+      "VEC": [
+        6.429749999999999,
+        9.05245
+      ],
+      "avg_d_valence_electrons": [
+        3.6992816000000004,
+        7.180250000000001
+      ],
+      "mag_moment_mean": [
+        0.4552691231034483,
+        0.9607657775694445
+      ]
+    }
+  },
+  "280–320 K": {
+    "window_K": [
+      280.0,
+      320.0
+    ],
+    "positive_percentile_band": [
+      10.0,
+      90.0
+    ],
+    "features": [
+      "VEC",
+      "sigma",
+      "dHmix",
+      "dSmix"
+    ],
+    "bounds_full_precision": {
+      "VEC": [
+        6.44,
+        9.03512
+      ],
+      "sigma": [
+        3.1432911432420627,
+        5.789610234850571
+      ],
+      "dHmix": [
+        -27.81368258,
+        1.8804492959999999
+      ],
+      "dSmix": [
+        13.067379935179048,
+        14.29822796146444
+      ]
+    }
+  },
+  "300–400 K": {
+    "window_K": [
+      300.0,
+      400.0
+    ],
+    "positive_percentile_band": [
+      5.0,
+      95.0
+    ],
+    "features": [
+      "VEC",
+      "avg_d_valence_electrons",
+      "mag_moment_mean"
+    ],
+    "bounds_full_precision": {
+      "VEC": [
+        6.460500000000001,
+        9.02574
+      ],
+      "avg_d_valence_electrons": [
+        3.7027911027911027,
+        7.1585
+      ],
+      "mag_moment_mean": [
+        0.18357312414105206,
+        0.8509615617241381
+      ]
+    }
+  }
+}

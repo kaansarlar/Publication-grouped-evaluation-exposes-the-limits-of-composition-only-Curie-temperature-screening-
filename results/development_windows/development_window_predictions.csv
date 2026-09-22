@@ -1,0 +1,142 @@
+source_row,composition,reference_id,TC,target::250–350 K,selected::250–350 K,target::280–320 K,selected::280–320 K,target::300–400 K,selected::300–400 K
+2,GdTbDyHo,[1],198.0,False,False,False,False,False,False
+3,(GdTbDyHo)99.9Sc0.1,[1],193.0,False,False,False,False,False,False
+4,(GdTbDyHo)99.9Sc0.2,[1],186.0,False,False,False,False,False,False
+5,GdTbDyHo)99.9Sc0.3,[1],181.0,False,False,False,False,False,False
+6,(GdTbDyHo)99.9Sc0.4,[1],181.0,False,False,False,False,False,False
+7,(GdTbDyHo)99.9Sc0.5,[1],176.0,False,False,False,False,False,False
+8,Tb25.11Dy25.03Ho24.4Er 25.43,[2],160.0,False,False,False,False,False,False
+9,Tb23.58Dy25.05Ho25.03Er 26.34,[2],163.9,False,False,False,False,False,False
+10,Gd20Ho20Er20Al20 Fe 20,[3],55.0,False,False,False,False,False,False
+11,Gd20Ho20Er20Al20 Co 20,[3],39.0,False,False,False,False,False,False
+12,Gd20Ho20Er20Al20 Ni 20,[3],25.0,False,False,False,False,False,False
+13,GdTbHoEr,[4],190.0,False,False,False,False,False,False
+14,GdTbHoErLa,[4],127.0,False,False,False,False,False,False
+15,GdTbHoErLaY,[4],120.0,False,False,False,False,False,False
+16,GdTbHoErPr,[4],135.0,False,False,False,False,False,False
+17,Gd20Dy20Er20Ho20Tb20,[5],186.0,False,False,False,False,False,False
+18,Gd25Er25Ho25Tb25,[5],139.0,False,False,False,False,False,False
+19,Dy25Er25Ho25Tb25,[5],52.0,False,False,False,False,False,False
+20,Er33.33Ho33.33Tb33.34,[5],88.0,False,False,False,False,False,False
+21,Gd10Tb10Dy10Ho10Er10Y10Ni10Co10Ag10Al10,[6],29.0,False,False,False,False,False,False
+26,Ho20Er20Co20Al20Gd20,[7],37.0,False,False,False,False,False,False
+27,Ho20Er20Co20Al20Dy20,[7],18.0,False,False,False,False,False,False
+28,Ho20Er20Co20Al20Tm20,[7],9.0,False,False,False,False,False,False
+29,Gd25Co25Al25Y25,[8],39.0,False,False,False,False,False,False
+30,Gd25Co25Al25Y15Dy10,[8],44.0,False,False,False,False,False,False
+31,Gd25Co25Al25Y15Ho10,[8],41.0,False,False,False,False,False,False
+32,Gd25Co25Al25Y15Er10,[8],43.0,False,False,False,False,False,False
+33,Gd25Co25Al25Ho24Y1,[9],51.0,False,False,False,False,False,False
+34,Gd25Co25Al25Ho20Y5,[9],49.0,False,False,False,False,False,False
+35,Gd25Co25Al25Ho15Y10,[9],47.0,False,False,False,False,False,False
+37,Gd20Dy20Er20Co20Al20,[10],44.0,False,False,False,False,False,False
+39,(Gd20Dy20Er20Co20Al20)Si0.5,[10],44.0,False,False,False,False,False,False
+41,(Gd20Dy20Er20Co20Al20)Si1,[10],44.0,False,False,False,False,False,False
+43,(Gd20Dy20Er20Co20Al20)Si3,[10],44.0,False,False,False,False,False,False
+45,(Gd36Tb20Co20Al24)97Fe3(micro_100),[11],98.0,False,False,False,False,False,False
+46,(Gd36Tb20Co20Al24)97Fe3(micro_70),[11],102.0,False,False,False,False,False,False
+53,(Gd36Tb20Co20Al24)97Fe3(micro_100),[11],99.0,False,False,False,False,False,False
+57,V0.85FeCoNiCu1.15,[12],329.0,True,True,False,False,True,True
+60,(MnNiSi)1-x(FeCoGe)x x=0.4,[13],271.0,True,True,False,False,False,True
+61,(MnNiSi)1-x(FeCoGe)x x=0.42,[13],224.0,False,True,False,False,False,True
+62,(MnNiSi)1-x(FeCoGe)x x=0.45,[13],232.0,False,True,False,False,False,True
+63,(MnNiSi)1-x(FeCoGe)x x=0.47,[13],235.0,False,True,False,False,False,True
+64,(MnNi)0.6Si1-y(FeCo)0.4Gey  y=0.36,[13],327.6,True,True,False,False,True,True
+65,(MnNi)0.6Si1-y(FeCo)0.4Gey  y=0.38,[13],308.8,True,True,True,False,True,True
+66,(MnNi)0.6Si1-y(FeCo)0.4Gey  y=0.4,[13],271.3,True,True,False,False,False,True
+67,(MnNi)0.6Si1-y(FeCo)0.4Gey  y=0.42,[13],295.5,True,True,True,False,False,True
+68,Gd 20 Tb 18 Dy 18 Co 20 Al 24,[14],59.0,False,False,False,False,False,False
+74,(Gd 0.2 Tb 0.18 Dy 0.18 Co 0.2 Al 0.24 ) 43 H 57,[14],8.0,False,False,False,False,False,False
+80,CoCuFeMnNi,[15],395.0,False,False,False,False,True,False
+81,CoCu0.975FeMn1.025Ni,[15],321.0,True,True,False,False,True,False
+82,CoCu0.95FeMn1.05Ni,[15],297.0,True,True,True,True,False,False
+83,CoCu0.925FeMn1.075Ni,[15],279.0,True,True,False,True,False,False
+84,CoCu0.9FeMn1.1Ni,[15],264.0,True,True,False,True,False,False
+85,CoCuFe0.975Mn1.025Ni,[15],299.0,True,False,True,False,False,False
+86,CoCuFe0.95Mn1.05Ni,[15],292.0,True,False,True,False,False,False
+87,"(Fe,Mn,Ni) 66.7 (Ge 0.5 Si 0.5 ) 33.3",[16],138.0,False,False,False,False,False,False
+88,"Fe,Mn,Ni) 66.7 (Ge 0.465 Si 0.535 ) 33.3",[16],178.0,False,False,False,False,False,False
+89,"(Fe,Mn,Ni) 66.7 (Ge 0.45 Si 0.55 ) 33.3",[16],200.0,False,False,False,False,False,False
+90,Fe30Co30Ni30Cr10,[17],651.0,False,False,False,False,False,False
+91,Fe30Co30Ni30Mn10,[17],736.0,False,False,False,False,False,False
+92,Fe30Co30Ni30Cr5Mn5,[17],651.0,False,False,False,False,False,False
+93,CoFeNiCr1.0Cu0.0,[18],113.0,False,False,False,False,False,False
+94,CoFeNiCr1.0Cu0.5,[18],120.0,False,True,False,False,False,False
+95,CoFeNiCr1.0Cu1.0,[18],110.0,False,False,False,False,False,False
+96,CoFeNiCr0.8Cu1.0,[18],223.0,False,False,False,False,False,False
+97,Mn1.75Fe0.25CoNiGe1.6Si0.4,[19],295.0,True,False,True,False,False,True
+98,AlCrFeCoNiCu,[20],295.0,True,True,True,True,False,True
+100,V0.85FeCoNiCu1.15,[21],297.0,True,True,True,False,False,True
+102,GdTbDyHoErTmCoAl,[22],35.0,False,False,False,False,False,False
+103,GdTbDyHoErTmCoNi,[22],40.0,False,False,False,False,False,False
+104,GdTbHoEr,[23],190.0,False,False,False,False,False,False
+105,GdTbHoErLa,[23],117.0,False,False,False,False,False,False
+106,GdTbHoErLaY,[23],120.0,False,False,False,False,False,False
+107,ScGdTbDyHo,[24],144.0,False,False,False,False,False,False
+108,ScGdTbDyHo,[24],143.0,False,False,False,False,False,False
+109,ScGdTbDyHo,[24],146.0,False,False,False,False,False,False
+110,ScGdTbDyHo,[24],139.0,False,False,False,False,False,False
+111,LaFe10.8Cr0.2Si2,[25],219.0,False,False,False,False,False,False
+112,LaFe10Co0.5Ni0.5Si2,[25],285.0,True,False,True,False,False,False
+113,LaFe10.25Co0.25Ni0.25Cr0.25Si2,[25],247.0,False,False,False,False,False,False
+114,Mn27Cr7Ni33Ge25Si8,[26],412.0,False,False,False,False,False,True
+118,Fe25Co25Ni25Mo5P10B10,[27],560.0,False,False,False,False,False,False
+121,GdTbHoErY,[28],163.0,False,False,False,False,False,False
+125,Fe26.7Ni26.7Ga15.6Mn20Si11,[29],322.0,True,True,False,False,True,True
+126,Fe26.7Ni26.7Ga15.6Mn20Si11,[29],334.0,True,True,False,False,True,True
+127,Al0.44Cr0.25MnFeCo0.05Ni0.2,[30],340.0,True,True,False,False,True,True
+128,Mn22.3Fe22.2Ni22.2Ge16.65Si16.65,[31],137.0,False,True,False,False,False,True
+133,Mn0.94Cr0.3Fe0.5Co0.2Ni0.5Al0.3,[32],321.0,True,True,False,True,True,True
+134,(Gd36Tb20Co20Al24)99Fe1,[33],94.0,False,False,False,False,False,False
+135,Gd18Ho22Tm20Cu22Al18,[33],33.6,False,False,False,False,False,False
+136,Gd36Tb20Co20Al24,[33],81.0,False,False,False,False,False,False
+137,Gd19Tb19Er18Fe19Al25,[33],97.0,False,False,False,False,False,False
+138,(Gd36Tb20Co20Al24)98Fe2,[33],100.0,False,False,False,False,False,False
+139,Fe24.1Co24.1Ni24.1Cr27.7,[33],36.0,False,False,False,False,False,False
+140,Fe24.39Co24.39Ni24.39Cr26.83,[33],48.0,False,False,False,False,False,False
+141,FeCoNiCr,[33],171.0,False,False,False,False,False,False
+142,Fe24.69Co24.69Ni24.69Cr25.93,[33],65.0,False,False,False,False,False,False
+143,Fe25.3Co25.3Ni25.3Cr24.1,[33],100.0,False,False,False,False,False,False
+144,Fe25.64Co25.64Ni25.64Cr23.08,[33],131.0,False,False,False,False,False,False
+145,Fe25.64Co25.64Ni25.64Cr23.08,[33],148.0,False,True,False,False,False,False
+146,FeCoNi1.5Cr0.5Al,[33],150.0,False,False,False,False,False,False
+147,Fe26Co26Ni26Cr22,[33],193.0,False,False,False,False,False,False
+148,Fe23.53Co23.53Ni23.53Cr23.53Pd5.88,[33],210.0,False,False,False,False,False,False
+149,Fe25Co25Ni25(Mo0.2P0.4B0.4)25,[33],560.0,False,False,False,False,False,False
+150,FeCoNi0.5Cr0.5Al1.5,[33],455.0,False,True,False,False,False,False
+151,FeCoNi0.5Cr0.5Al,[33],685.0,False,False,False,False,False,False
+152,Fe30.7Ni25.7Ga14.6Mn19Si10,[34],442.0,False,True,False,False,False,True
+153,Fe30.7Ni25.7Ga14.6Mn19Si10,[34],462.0,False,True,False,False,False,True
+154,CoFeNi0.5Cr0.5-Alx (x = 0.0),[35],270.0,True,False,False,False,False,False
+160,CoFeNi0.5Cr0.5-Alx (x = 1.5),[35],455.0,False,False,False,False,False,False
+163,Mn20Al20Co14Fe20Cr26,[36],268.0,True,False,False,False,False,False
+164,Mn20Al20Co14Fe20Cr26,[36],268.0,True,False,False,False,False,False
+165,Mn20Al20Co14Fe21Cr25,[36],280.0,True,True,True,True,False,False
+166,Mn20Al20Co14Fe21Cr25,[36],280.0,True,True,True,True,False,False
+167,Mn20Al20Co14Fe22Cr24,[36],300.0,True,False,True,True,True,False
+168,Mn20Al20Co14Fe22Cr24,[36],300.0,True,True,True,True,True,False
+169,Mn20Al20Co14Fe23Cr23,[36],310.0,True,True,True,True,True,True
+170,Mn20Al20Co14Fe23Cr23,[36],310.0,True,True,True,True,True,True
+171,Mn20Cr14Ni33Ge25Si8,[37],361.0,False,False,False,False,True,False
+172,Mn20Cr14Ni33Ge25Si8,[37],361.0,False,False,False,False,True,True
+175,Mn24Cr10Ni33Ge25Si8,[37],387.0,False,False,False,False,True,False
+176,Mn24Cr10Ni33Ge25Si8,[37],387.0,False,False,False,False,True,True
+179,Al20Mn20Fe20Co14.5Cr25.5,[38],282.8,True,True,True,False,False,False
+181,Al20Mn20Fe20Co15.5Cr24.5,[38],313.7,True,True,True,True,True,True
+183,Al20Mn20Fe20Co16.5Cr23.5,[38],345.8,True,True,False,True,True,True
+185,Dy27Er27Ni26Al20,[39],15.0,False,False,False,False,False,False
+186,Dy18Er18Y18Ni26Al20,[39],10.0,False,False,False,False,False,False
+187,Dy13.5Er13.5Y13.5Gd13.5Ni26Al20,[39],22.0,False,False,False,False,False,False
+188,FeCoNiCr,[40],103.0,False,False,False,False,False,False
+189,FeCoNiCrPd0.005,[40],102.0,False,False,False,False,False,False
+190,FeCoNiCrPd0.03,[40],121.0,False,False,False,False,False,False
+191,FeCoNiCrPd0.06,[40],131.0,False,False,False,False,False,False
+192,FeCoNiCrPd0.12,[40],160.0,False,False,False,False,False,False
+193,FeCoNiCrPd0.25,[40],220.0,False,False,False,False,False,False
+194,FeCoNiCrPd0.50,[40],292.0,True,True,True,True,False,False
+195,FeCoNiCrAl,[41],290.0,True,True,True,True,False,True
+196,FeCoNi1.5Cr0.5Al,[41],150.0,False,True,False,False,False,False
+197,AlxCr0.2MnFe0.5Co0.3Ni0.5(x=0.3),[42],380.0,False,True,False,True,True,True
+198,AlxCr0.2MnFe0.5Co0.3Ni0.5(x=0.35),[42],378.0,False,True,False,True,True,True
+199,AlxCr0.2MnFe0.5Co0.3Ni0.5(x=0.6),[42],385.0,False,True,False,True,True,True
+200,AlxCr0.2MnFe0.5Co0.3Ni0.5(x=0.65),[42],370.0,False,True,False,True,True,True
