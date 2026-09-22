@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset or analysis code, please cite the associated manuscript and archived repository release."
+title: "Publication-grouped validation of composition-only Curie-temperature screening"
+type: dataset
+version: "1.0.0"
+date-released: 2026-09-22
+authors:
+  - family-names: "Şarlar"
+    given-names: "Kağan"
+    email: "kagansarlar@kmu.edu.tr"
+keywords:
+  - high-entropy alloys
+  - Curie temperature
+  - materials informatics
+  - publication-grouped validation
+  - SHAP
+  - data leakage
