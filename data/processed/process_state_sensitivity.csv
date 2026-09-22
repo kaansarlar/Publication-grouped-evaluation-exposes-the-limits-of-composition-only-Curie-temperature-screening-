@@ -1,0 +1,8 @@
+pair,composition,TC_K_annealed,TC_K_as_rolled,label_annealed,label_as_rolled,delta_TC_annealed_minus_rolled_K,label_changed
+ROC-AG-020,CoCr0.9FeNiAg0.2,295.0,209.0,1.0,0.0,86.0,True
+ROC-AU-030,CoCr0.9FeNiAu0.3,330.0,341.0,1.0,1.0,-11.0,False
+ROC-CU-030,CoCr0.75FeNiCu0.3,286.0,310.0,1.0,1.0,-24.0,False
+ROC-CU-070,CoCr0.75FeNiCu0.7,378.0,367.0,0.0,0.0,11.0,False
+ROC-PD-020,CoCr0.75FeNiPd0.2,329.0,347.0,1.0,1.0,-18.0,False
+ROC-PD-040,CoCr0.9FeNiPd0.4,273.0,310.0,1.0,1.0,-37.0,False
+ROC-PD-060,CoCr1.05FeNiPd0.6,261.0,284.0,1.0,1.0,-23.0,False
